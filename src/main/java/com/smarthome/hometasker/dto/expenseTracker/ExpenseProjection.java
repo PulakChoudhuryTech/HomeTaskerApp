@@ -13,4 +13,5 @@ public interface ExpenseProjection {
     String getAccount();
     String getType();
     String getName();
+    
 }
